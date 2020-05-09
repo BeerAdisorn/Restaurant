@@ -7,7 +7,6 @@ class Calculator extends Component {
             return <li className="text-right">ไม่มีสินค้าค่ะ </li>
         }
         else {
-            return console.log(orders)
             return orders.map(order => {
                 return (
                     <li className="text-right text-success title" key={order.product.id}>
