@@ -62,7 +62,6 @@ class Order extends Comment {
                     <div className="row">
                         {this.showOrder()}
                     </div>
-
                 </div>
             </div>
         )
