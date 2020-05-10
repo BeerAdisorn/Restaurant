@@ -62,97 +62,6 @@
       "id": 1
     },
     {
-      "orderedDate": "2020-05-08T12:13:03.546Z",
-      "totalPrice": 340,
-      "orders": [
-        {
-          "product": {
-            "id": 4,
-            "productId": "P004",
-            "productName": "เฟรนฟราย",
-            "unitPrice": "140",
-            "thumbnail": "/images/product/4.jpg"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 3,
-            "productId": "P003",
-            "productName": "บิงซู",
-            "unitPrice": "200",
-            "thumbnail": "/images/product/3.jpg"
-          },
-          "quantity": 1
-        }
-      ],
-      "id": 2
-    },
-    {
-      "orderedDate": "2020-05-08T12:13:28.029Z",
-      "totalPrice": 430,
-      "orders": [
-        {
-          "product": {
-            "id": 4,
-            "productId": "P004",
-            "productName": "เฟรนฟราย",
-            "unitPrice": "140",
-            "thumbnail": "/images/product/4.jpg"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 3,
-            "productId": "P003",
-            "productName": "บิงซู",
-            "unitPrice": "200",
-            "thumbnail": "/images/product/3.jpg"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 2,
-            "productId": "P002",
-            "productName": "ไก่ทอด",
-            "unitPrice": "90",
-            "thumbnail": "/images/product/2.jpg"
-          },
-          "quantity": 1
-        }
-      ],
-      "id": 3
-    },
-    {
-      "orderedDate": "2020-05-08T12:13:47.390Z",
-      "totalPrice": 210,
-      "orders": [
-        {
-          "product": {
-            "id": 1,
-            "productId": "P001",
-            "productName": "สลัดผัก",
-            "unitPrice": "120",
-            "thumbnail": "/images/product/1.jpg"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": 2,
-            "productId": "P002",
-            "productName": "ไก่ทอด",
-            "unitPrice": "90",
-            "thumbnail": "/images/product/2.jpg"
-          },
-          "quantity": 1
-        }
-      ],
-      "id": 4
-    },
-    {
       "orderedDate": "2020-05-08T12:17:37.893Z",
       "totalPrice": 140,
       "orders": [
@@ -187,21 +96,41 @@
       "id": 6
     },
     {
-      "orderedDate": "2020-05-09T11:45:30.261Z",
-      "totalPrice": 280,
+      "orderedDate": "2020-05-10T02:03:09.706Z",
+      "totalPrice": 410,
       "orders": [
         {
           "product": {
-            "id": 4,
-            "productId": "P004",
-            "productName": "เฟรนฟราย",
-            "unitPrice": "140",
-            "thumbnail": "/images/product/4.jpg"
+            "id": 1,
+            "productId": "P001",
+            "productName": "สลัดผัก",
+            "unitPrice": "120",
+            "thumbnail": "/images/product/1.jpg"
           },
-          "quantity": 2
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "productId": "P002",
+            "productName": "ไก่ทอด",
+            "unitPrice": "90",
+            "thumbnail": "/images/product/2.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 3,
+            "productId": "P003",
+            "productName": "บิงซู",
+            "unitPrice": "200",
+            "thumbnail": "/images/product/3.jpg"
+          },
+          "quantity": 1
         }
       ],
-      "id": 7
+      "id": 8
     }
   ]
 }
